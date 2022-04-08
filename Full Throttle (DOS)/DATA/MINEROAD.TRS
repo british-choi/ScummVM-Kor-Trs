@@ -1,0 +1,486 @@
+#define DLGMINER_LINE2001 1
+//전기톱 좋아하냐?
+
+#define DLGMINER_LINE2002 2
+//전기톱에 대해 이야기나 해볼까?!?
+
+#define DLGMINER_LINE2003 3
+//아하하하!
+
+#define DLGMINER_LINE2004 4
+//좋아!
+
+#define DLGMINER_LINE2005 5
+//오, 그래?!!
+
+#define DLGMINER_LINE2006 6
+//몸 토막나고 싶냐?
+
+#define DLGMINER_LINE2007 7
+//니 몸뚱아리 몇 토막 나는지 보자.
+
+#define DLGMINER_LINE2008 8
+//너 팔을 아예 뽑아버리겠어!
+
+#define DLGMINER_LINE2009 9
+//이발 한 번 해줄까?
+
+#define DLGMINER_LINE2010 10
+//이거나 먹어라!
+
+#define DLGMINER_LINE2011 11
+//윽!
+
+#define DLGMINER_LINE2012 12
+//으!
+
+#define DLGMINER_LINE2013 13
+//하하하!
+
+#define DLGMINER_LINE2014 14
+//또 너냐?
+
+#define DLGMINER_LINE2015 15
+//아! 내 눈!
+
+#define DLGMINER_LINE2016 16
+//으악!
+
+#define DLGMINER_LINE2017 17
+//야, 너 진짜 폴켓츠 맞아?
+
+#define DLGMINER_LINE2018 18
+//맞아.
+
+#define DLGMINER_LINE2019 19
+//난 폴켓츠을 증오해!
+
+#define DLGMINER_LINE2020 20
+//억!
+
+#define DLGMINER_LINE2021 21
+//퍽!
+
+#define DLGMINER_LINE2022 22
+//으아!
+
+#define DLGMINER_LINE2023 23
+//폴켓츠는 뭔가 모자르다며?
+
+#define DLGMINER_LINE2024 24
+//하! 폴켓츠가 아니라 폴키튼이 맞겠다!
+
+#define DLGMINER_LINE2025 25
+//냄새나는 폴켓츠!
+
+#define DLGMINER_LINE2026 26
+//타는거나 배워봐, 애송아.
+
+#define DLGMINER_LINE2027 27
+//자전거나 타고오지 그랬어?
+
+#define DLGMINER_LINE2028 28
+//헤헤!
+
+#define DLGMINER_LINE2029 29
+//비켜라, 이 깍두기 얼굴아!
+
+#define DLGMINER_LINE2030 30
+//저리 꺼져...
+
+#define DLGMINER_LINE2031 31
+//으아!
+
+#define DLGMINER_LINE2032 32
+//윽!
+
+#define DLGMINER_LINE2033 33
+//이얍!
+
+#define DLGMINER_LINE2034 34
+//이거 목에다 걸어줄까?
+
+#define DLGMINER_LINE2035 35
+//안경 쓴 사람 때리면 안되지...
+
+#define DLGMINER_LINE2036 36
+//아스팔트 맛 좀 볼래?
+
+#define DLGMINER_LINE2037 37
+//너 내 영역 침범했다 이거지?
+
+#define DLGMINER_LINE2038 38
+//임마, 포기해!
+
+#define DLGMINER_LINE2039 39
+//이거 쫌 까부네. 
+
+#define DLGMINER_LINE2040 40
+//너 나사 몇 개가 풀렸다. 
+
+#define DLGMINER_LINE2041 41
+//갱 없이는 어무것도 못하면서.
+
+#define DLGMINER_LINE2042 42
+//패배자!
+
+#define DLGMINER_LINE2043 43
+//턱만 큰 겁쟁이!
+
+#define DLGMINER_LINE2044 44
+//니 몸뚱아리 운반하느라 오토바이 고생하겠다.  
+
+#define DLGMINER_LINE2045 45
+//말좀 묻겠소, 규격초과된 보조추진장치가 달린 괴물급 엔진이 있소?
+
+#define DLGMINER_LINE2046 46
+//아니면 나를 보니 반가운가요?
+
+#define DLGMINER_LINE2047 47
+//*콜록* *콜록*
+
+#define DLGMINER_LINE2048 48
+//이게 내 대답이다.
+
+#define DLGMINER_LINE2049 49
+//왜요, 여기 있어요!
+
+#define DLGMINER_LINE2050 50
+//잘 가!
+
+#define DLGMINER_LINE2051 51
+//아-하-하!
+
+#define DLGMINER_LINE2052 52
+//윽!
+
+#define DLGMINER_LINE2053 53
+//이봐! 너 미쳤구나!
+
+#define DLGMINER_LINE2054 54
+//난 이만 간다!
+
+#define DLGMINER_LINE2055 55
+//니트로나 먹어라, 이 굼벵아!
+
+#define DLGMINER_LINE2056 56
+//미안해, 먼저갈께!
+
+#define DLGMINER_LINE2057 57
+//폭주족이다, 어떻게해? 
+
+#define DLGMINER_LINE2058 58
+//너도 속도 좀 내지, 그래?
+
+#define DLGMINER_LINE2059 59
+//걱정마, 거북이가 토끼 이긴데잖아. 
+
+#define DLGMINER_LINE2060 60
+//아-하-하!
+
+#define DLGMINER_LINE2061 61
+//아-하-하!
+
+#define DLGMINER_LINE2062 62
+//야-하-하!
+
+#define DLGMINER_LINE2063 63
+//무슨일이야? 너 쇳덩이 귀저기 차냐?
+
+#define DLGMINER_LINE2064 64
+//너 닻을 내렸냐?
+
+#define DLGMINER_LINE2065 65
+//얍!
+
+#define DLGMINER_LINE2066 66
+//죽어라!
+
+#define DLGMINER_LINE2067 67
+//이거나 먹어라, 게이 녀석아!
+
+#define DLGMINER_LINE2068 68
+//꺼저!
+
+#define DLGMINER_LINE2069 69
+//백날 해도 날 못 이길껄!
+
+#define DLGMINER_LINE2070 70
+//조무래기 같으니!
+
+#define DLGMINER_LINE2071 71
+//이제 죽어줘야겠어!
+
+#define DLGMINER_LINE2072 72
+//너 약간은 귀여워 보이는걸.
+
+#define DLGMINER_LINE2073 73
+//이번에야 말로 처박히라구!
+
+#define DLGMINER_LINE2074 74
+//거의 마지막이야, 쌤통!
+
+#define DLGMINER_LINE2075 75
+//타르나 먹어라, 폴캣츠!
+
+#define DLGMINER_LINE2076 76
+//맥주 한 잔 나누면서 이야기하는 것 어때?
+
+#define DLGMINER_LINE2077 77
+//난 폴켓츠을 증오해!
+
+#define DLGMINER_LINE2078 78
+//족제비녀석은 싫어!
+
+#define DLGMINER_LINE2079 79
+//폴켓츠!
+
+#define DLGMINER_LINE2080 80
+//뭐야!
+
+#define DLGMINER_LINE2081 81
+//이건 내 길이란 말야!
+
+#define DLGMINER_LINE2082 82
+//포기해!
+
+#define DLGMINER_LINE2083 83
+//너 죽고 나서야 미안해할께.
+
+#define DLGMINER_LINE2084 84
+//그리고 너 오토바이로 지포라이터 하나 만들어보지.
+
+#define DLGMINER_LINE2085 85
+//나 뚜껑 열린다.
+
+#define DLGMINER_LINE2086 86
+//하압!
+
+#define DLGMINER_LINE2087 87
+//하압!
+
+#define DLGMINER_LINE2088 88
+//하압!
+
+#define DLGMINER_LINE2089 89
+//악!
+
+#define DLGMINER_LINE2090 90
+//악!
+
+#define DLGMINER_LINE2091 91
+//악!
+
+#define DLGMINER_LINE2092 92
+//다음에는 연료통을 노릴거야.  
+
+#define DLGMINER_LINE2093 93
+//이게 또 누구신가. 
+
+#define DLGMINER_LINE2094 94
+//재활은 다 끝났나보지.
+
+#define DLGMINER_LINE2095 95
+//내 주먹이 좀 근질거리고 있었는데.
+
+#define DLGMINER_LINE2096 96
+//야, 야!
+
+#define DLGMINER_LINE2097 97
+//좋았어!
+
+#define DLGMINER_LINE2098 98
+//그래! 그렇게 하라고!
+
+#define DLGMINER_LINE2099 99
+//좀 거칠게 놀고싶다 이거지?
+
+#define DLGMINER_LINE2100 100
+//오오, 좋은 시도야!
+
+#define DLGMINER_LINE2101 101
+//이제 그만둘 생각은 하지 마라!
+
+#define DLGMINER_LINE2102 102
+//그러면되나 이렇게  세게 쳐야지?!
+
+#define DLGMINER_LINE2103 103
+//으악!
+
+#define DLGMINER_LINE2104 104
+//웁! 모기에 물려도 더 아프겠다!
+
+#define DLGMINER_LINE2105 105
+//으윽!
+
+#define DLGMINER_LINE2106 106
+//또 매 좀 맞아야 하는가보지?
+
+#define DLGMINER_LINE2107 107
+//교육은 아플때도 있는 법.
+
+#define DLGMINER_LINE2108 108
+//등짝이 쓰라리는 것 느껴지지 않냐?
+
+#define DLGMINER_LINE2109 109
+//겨우 그거냐?
+
+#define DLGMINER_LINE2110 110
+//너를 패주고 싶은 마음이 막 생기는데.   
+
+#define DLGMINER_LINE2111 111
+//나를 믿어, 널 꼭 해치고 싶어서 이러는 것 아니야.
+
+#define DLGMINER_LINE2112 112
+//개인적 감정 가지지 마.
+
+#define DLGMINER_LINE2113 113
+//더 몸부림쳐야 내가 더 즐거운데.
+
+#define DLGMINER_LINE2114 114
+//돌아왔네? 좋아.
+
+#define DLGMINER_LINE2115 115
+//그래, 수업은 끝났어. 마지막 시험 볼 시간이야.
+
+#define DLGMINER_LINE2116 116
+//억!
+
+#define DLGMINER_LINE2117 117
+//억!
+
+#define DLGMINER_LINE2118 118
+//억!
+
+#define DLGMINER_LINE2119 119
+//악!
+
+#define DLGMINER_LINE2120 120
+//이 판대기 맛이나 좀 보지.
+
+#define DLGMINER_LINE2121 121
+//이제 이해가?
+
+#define DLGMINER_LINE2122 122
+//뭔가 이해를 못하는 것 같은데.
+
+#define DLGMINER_LINE2123 123
+//다시 설명해주지.
+
+#define DLGMINER_LINE2124 124
+//넌 좀 아퍼봐야 뭘 배워.
+
+#define DLGMINER_LINE2125 125
+//오! 그거 좋군!
+
+#define DLGMINER_LINE2126 126
+//그래!
+
+#define DLGMINER_LINE2127 127
+//이런것은 좀 받아적어라.
+
+#define DLGMINER_LINE2128 128
+//터치?
+
+#define DLGMINER_LINE2129 129
+//잡았다, 아가야!
+
+#define DLGMINER_LINE2130 130
+//음!
+
+#define DLGMINER_LINE2131 131
+//수업 종료.
+
+#define DLGMINER_LINE2132 132
+//잡소리!
+
+#define DLGMINER_LINE2133 133
+//정말 예술이야.
+
+#define DLGTORQU_LINE2001 134
+//파더 토크!
+
+#define SYSTEM_LINE0005 135
+//닫질 안아!
+
+#define DLGROTT_LINE2001 501
+//야옹아 이리온!
+
+#define DLGROTT_LINE2002 502	
+//덤벼봐!
+
+#define DLGROTT_LINE2003 503
+//우, 냐옹!
+
+#define DLGROTT_LINE2004 504
+//손톱이 깎였냐, 고양아?
+
+#define DLGROTT_LINE2005 505
+//으악!
+
+#define DLGROTT_LINE2006 506
+//으악!
+
+#define DLGROTT_LINE2007 507
+//으악!
+
+#define DLGROTT_LINE2008 508
+//으아!
+
+#define DLGROTT_LINE2009 509
+//으아!
+
+#define DLGROTT_LINE2010 510
+//으아!
+
+#define DLGROTT_LINE2011 511
+//야!
+
+#define DLGROTT_LINE2012 512
+//윽!
+
+#define DLGROTT_LINE2013 513
+//나쁜 고양이!
+
+#define DLGROTT_LINE2014 514
+//아, 젠장!
+
+#define ROADRSH_LINE2001	2001 
+//이봐! 너 폴켓츠 넘버원 맞지?! 
+
+#define ROADRSH_LINE1002	1002 
+//맞아, 근데 넌 내 도로에 있는거같군. 
+
+#define ROADRSH_LINE2002	2002 
+//그래, 난 이 도로을 자주 애용하지.
+
+#define ROADRSH_LINE2003	2003 
+//롯휠러즈가 출동하면 도로는 우리께 돼.
+
+#define ROADRSH_LINE1005	1005
+//난 심각해. 누군가가 폴켓츠을 습격하려한다고--
+
+#define ROADRSH_LINE2004	2004 
+//누군가 폴켓츠을 습격한다고!
+
+#define ROADRSH_LINE2005	2005 
+//하느님! 이를 어쩌랴?
+
+#define ROADRSH_LINE2006	2006 
+//하하하!
+
+#define NESTOR_LINE_1			3000
+//달리는걸 보라구!
+
+#define BOLUS_LINE_2			3001
+//아아... 케이브피쉬!
+
+#define ROADRSH_LINE1009	1009 
+//더이상 못참겠어!
+
+#define CFISH_EXIT_TEXT		5000
+//^f01고속도로 입구
+
+#define CFISH_CAVE_TEXT		5001
+//^f01동굴입구
+

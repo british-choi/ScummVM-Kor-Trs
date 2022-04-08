@@ -1,0 +1,17 @@
+#define BARFRONT-LINE1003 1003
+
+//도로 위에 있을 때...
+
+#define BARFRONT-LINE1004 1004
+
+//난 불사신이 된다.
+
+#define BARFRONT-LINE1005 1005
+
+//아무도 나를 막을 수 없다.
+
+#define BARFRONT-LINE1007 1007
+
+//하지만 녀석들은 내게 도전한다.
+
+

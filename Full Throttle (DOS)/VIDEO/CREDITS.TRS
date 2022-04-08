@@ -1,0 +1,340 @@
+# 1
+//^f02Starring
+
+# 2
+//^f02Roy Conrad
+
+# 3
+//^f02Mark Hamill
+
+# 4
+//^f02Kath Soucie
+
+# 5
+//^f02Lead Artist
+
+# 6
+//^f02Peter Chan
+
+# 7
+//^f02Lead Animator
+
+# 8
+//^f02Larry Ahern
+
+# 9
+//^f02Lead Programmer
+
+# 10
+//^f02Stephen R. Shaw
+
+# 11
+//^f02Programmers
+
+# 12
+//^f02Stephen R. Shaw
+
+# 13
+//^f02Mark Crowley
+
+# 14
+//^f02Hwei-Li Tsao
+
+# 15
+//^f02Tim Schafer
+
+# 16
+//^f02Dave Grossman
+
+# 17
+//^f02Animators
+
+# 18
+//^f02Peter Tsacle
+
+# 19
+//^f02Anson Jew
+
+# 20
+//^f02Charlie Ramos
+
+# 21
+//^f02Leonard Robel
+
+# 22
+//^f02Larry Ahern
+
+# 23
+//^f02Background Artists
+
+# 24
+//^f02Peter Chan
+
+# 25
+//^f02Brian Rich
+
+# 26
+//^f023D Artists
+
+# 27
+//^f02Richard Green
+
+# 28
+//^f02David Vallone
+
+# 29
+//^f02Dan Colon
+
+# 30
+//^f02Art Technicians
+
+# 31
+//^f02Lleslle Aclaro
+
+# 32
+//^f02Michele Harrell
+
+# 33
+//^f02Kim Balestreri
+
+# 34
+//^f02Featuring Music By
+
+# 35
+//^f02The Gone Jackals
+
+# 36
+//^f02Orchestral Composer
+
+# 37
+//^f02Music Producer
+
+# 38
+//^f02Peter McConnell
+
+# 39
+//^f02Lead Sound Designer
+
+# 40
+//^f02Clint Bajakian
+
+# 41
+//^f02Jonathan Hoffberg
+
+# 42
+//^f02Mark Crowley
+
+# 43
+//^f02Voice Producer
+
+# 44
+//^f02Tamlynn Barra
+
+# 45
+//^f02Voice Editor
+
+# 46
+//^f02Khris Brown
+
+# 47
+//^f02Featured Voices
+
+# 48
+//^f02Alex Bennett
+
+# 49
+//^f02Hamilton Camp
+
+# 50
+//^f02Tress MacNeille
+
+# 51
+//^f02Pat Musick
+
+# 52
+//^f02Bill Farmer
+
+# 53
+//^f02Maurice LaMarche
+
+# 54
+//^f02Nick Jameson
+
+# 55
+//^f02Scumm Programmed by
+
+# 56
+//^f02Aric Wilmunder
+
+# 57
+//^f02Ron Gilbert
+
+# 58
+//^f02Brad Taylor
+
+# 59
+//^f02Insane Programmed by
+
+# 60
+//^f02Vince Lee
+
+# 61
+//^f02iMUSE Programmed by
+
+# 62
+//^f02Michael Land
+
+# 63
+//^f02Peter McConnell
+
+# 64
+//^f02Michael McMahon
+
+# 65
+//^f02Lead Testers
+
+# 66
+//^f02Dana Fong
+
+# 67
+//^f02Chris Purvis
+
+# 68
+//^f02Jo Ashburn
+
+# 69
+//^f02Testing
+
+# 70
+//^f02John Hannon
+
+# 71
+//^f02Albert Chen
+
+# 72
+//^f02Darren Johnson
+
+# 73
+//^f02Ryan Kaufman
+
+# 74
+//^f02Tabitha Tosti
+
+# 75
+//^f02
+
+# 76
+//^f02
+
+# 77
+//^f02
+
+# 78
+//^f02Production Manager
+
+# 79
+//^f02Casey Donahue Ackley
+
+# 80
+//^f02Tamlynn Barra
+
+# 81
+//^f02Writer, Designer,
+
+# 82
+//^f02Tim Schafer
+
+# 83 
+//^f02Sound Designers
+
+# 84 
+//^f02& Production
+
+# 85
+//^f02and Director
+
+# 86
+//^f02and Project Leader
+
+# 87
+//^f02Jonathan Ackley
+
+# 88 
+//^f02Product Marketing Manager
+
+# 89
+//^f02Barbara Gleason
+
+# 90
+//^f02Mal Friedman
+
+# 91
+//^f02Jack Angel
+
+# 92
+//^f02Scott Bullock
+
+# 93
+//^f02Steve Blum
+
+# 94
+//^f02Denny Delk
+
+# 95
+//^f02Zachary Barton
+
+# 96
+//^f02Aaron Giles
+
+# 97
+//^f02Coordinator
+
+# 98
+//^f02&
+
+# 99
+//^f02Chip Hinnenberg
+
+# 100
+//^f02Doyle Gilstrap, Jr.
+
+# 101
+//^f02William W. Burns
+
+# 102
+//^f02Compatibility
+
+# 103
+//^f02Testing
+
+# 104
+//^f02Justin Graham
+
+# 105
+//^f02Reed Derleth
+
+# 106
+//^f02Dan Pettit
+
+# 107
+//^f02Leyton Chew
+
+# 108
+//^f02Chris Snyder
+
+# 109
+//^f02Jim Davison
+
+#define OPEN1-LINE2027	2027
+//¶Ç ±× ±Í ¹®Á¦ ¿¹±â ÇÏ³×.
+
+#define OPEN1-LINE2028	2028
+//¾çÂÊ ±Í »çÀÌ¿¡ ÀÖ´Â ³ðÀÌ ³¯ °Ì³ª°Ô ÇÑ´Ù³×.
+
+#define OPEN1-LINE2030	2030
+//ÇÔ²² ´Þ¸± ¸¸ÇÑ ³ðµéÀÌ °¡´Â±¸¸¸!
+
+#define OPEN1-LINE2031	2031
+//´õ ¹â°Ô³ª! ¾îµð ¾ó±¼ÀÌ³ª º¸ÀÚ±¸!
+
+

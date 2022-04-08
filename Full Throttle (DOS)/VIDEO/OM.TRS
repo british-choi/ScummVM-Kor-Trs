@@ -1,0 +1,65 @@
+#define HIGHWAY9-LINE1001 1001
+//크윽.
+
+#define HIGHWAY9-LINE1002 1002
+//그녀가 내 보조추진장치 연료를 가져갔어!
+
+#define HIGHWAY9-LINE1003 1003
+//왜 그녀가 도망가는 거지?
+
+#define HIGHWAY9-LINE1004 1004
+//그녀는 모든 세상이 적이라고 생각하고 있는 것이 틀림없어.
+
+#define HIGHWAY9-LINE1005 1005
+//그 기분을 알 것 같아.
+
+#define HIGHWAY9-LINE1006 1006
+//< 헉!!! >
+
+#define HIGHWAY9-LINE1008 1008
+//더이상 못참겠어!
+
+#define HIGHWAY9-LINE1009 1009
+//넌 이제 죽었어!
+
+#define HIGHWAY9-LINE1011 1011
+//이 화물은 쓰레기야!
+
+#define HIGHWAY9-LINE1012 1012
+//속임수였어, 형제들!
+
+#define HIGHWAY9-LINE1013 1013
+//동굴로 돌아가자!
+
+#define HIGHWAY9-LINE2001 2001
+//헤,헤,헤!
+
+#define HIGHWAY9-LINE2002 2002
+//(헉.)
+
+#define HIGHWAY9-LINE2003 2003
+//이곳은 황폐해 보이는데.
+
+#define HIGHWAY9-LINE2004 2004
+//사장님이 틀렸을지도 몰라, 그리고 그녀는 여기 오지 않을 거야.
+
+#define HIGHWAY9-LINE2005 2005
+//그녀는 올거야! 우리가 먼저 도착했을 뿐이야!
+
+#define HIGHWAY9-LINE2006 2006
+//우리가 해야 할 일은 여기 앉아서 기다려야 한다는 거지!
+
+#define GOODLUCK-LINE4038 4028 
+//저 표시는...
+
+#define GOODLUCK-LINE4039 4039
+//저 의미는 바로 내가...
+
+#define GOODLUCK-LINE4040 4040
+//케이브피쉬 영역에 들어왔다는 거야!
+
+#define GOODLUCK-LINE4041 4041
+//케이브피쉬!
+
+
+
