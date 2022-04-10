@@ -1,6 +1,8 @@
 # EmuELEC 사용자를 위한 ScummVM 한글화 패치
 
-각 폴더 안의 README.md 파일을 확인해 주세요
+각 폴더 안의 README.md 파일을 확인해 주세요</br>
+게임롬은 제공되지 않습니다</br>
+EmuELEC에서 ScummVM의 게임 설치는 [Wiki](https://github.com/british-choi/EmuELEC/wiki/ScummVM-%EA%B2%8C%EC%9E%84-%EC%84%A4%EC%B9%98)를 참조하세요
 
 |게임명|발매일|폴더|
 |--|--|--|
