@@ -1,4 +1,4 @@
-[Monkey Island 2: LeChuck's Revenge (Unofficial SE Talkie v0.2/DOS)](https://archive.org/details/monkeyisland1and2ute)</br>
+[Monkey Island 2: LeChuck's Revenge (Ultimate Talkie Edition/DOS)](https://archive.org/details/monkeyisland1and2ute)</br>
 Revision 1 (2022.06.18)</br>
 Presented by [ScummVM Kor. Project](https://cafe.naver.com/scummkor)</br>
 </br>
