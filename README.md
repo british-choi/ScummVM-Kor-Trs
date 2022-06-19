@@ -7,6 +7,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |게임명|발매일|폴더|
 |--|--|--|
 |매니악 맨션|1988|[Maniac Mansion (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Maniac%20Mansion%20(DOS))|
+|인디아나 존스 3 최후의 성전|1989|[Indiana Jones and the Last Crusade (FLOPPY/VGA/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Indiana%20Jones%20and%20the%20Last%20Crusade%20(Floppy%20DOS%20VGA))|
 |룸|1990|[Loom (CD DOS VGA)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Loom%20(CD%20DOS%20VGA))|
 |샘 & 맥스 히트 더 로드|1993|[Sam & Max Hit the Road (CD DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Sam%20%26%20Max%20Hit%20the%20Road%20(CD%20DOS))|
 |풀 쓰로틀|1995|[Full Throttle (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Full%20Throttle%20(DOS))|
