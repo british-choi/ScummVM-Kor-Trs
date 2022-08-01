@@ -1,4 +1,4 @@
-[Loom (FM-TOWN)](https://cafe.naver.com/koreaadv/3353)</br>
+[Loom (FM-TOWNS)](https://cafe.naver.com/koreaadv/3353)</br>
 Revision 1 (2022.08.01)</br>
 Presented by [ScummVM Kor. Project](https://cafe.naver.com/scummkor)</br>
 </br>
