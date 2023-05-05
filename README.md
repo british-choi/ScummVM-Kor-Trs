@@ -26,4 +26,6 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 결국은 EmuELEC에서 V1 전용 한글패치를 사용할 수 있도록 하기 위한 프로젝트 였습니다. 현재는 작의 모험을 제외(30% 정도 번역한 것이 있는 것으로 아는데, 입수하지 못했습니다)한 거의 대부분의 V1 전용 한글 패치는 korean.trs 파일로 변환해서 Upload 하였습니다.<br>
 많은 분들의 노력으로 인해 국내 게임 유저들이 즐겁게 게임을 할 수 있습니다.<br>
 자료를 공개해 주신 많은 분들께 감사드립니다.<br>
-
+<br>
+## 한글화 FM-TOWN 구동을 위한 Windows용 ScummVM 
+ScummVM에서 FM-TOWN은 일본어만 지원되도록 구현되어 있습니다. 그래서 EmuELEC이 아닌 다른 Platform에서 FM-TOWN용 한글화 패치 적용시 정상적인 구동이 되지 않았습니다. 간혹 Windows에서 ScummVM으로 게임을 하시는 분들이 FM-TOWN용 한글화 패치를 사용할 수 없어서 아쉬워 하던 부분을 해결하기 위해 Windows용으로도 Build 하였습니다. 이제 Windows에서도 한글화된 FM-TOWN용 게임을 즐기시길 바랍니다.
