@@ -7,7 +7,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |게임명|발매일|폴더|
 |--|--|--|
 |매니악 맨션|1988|[Maniac Mansion (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Maniac%20Mansion%20(DOS))|
-|작의 모험 Enhanced|1998|[Zak McKracken Enhanced Version (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Zak%20McKracken%20Enhanced%20Version%20(DOS))|
+|작의 모험 Enhanced|1988|[Zak McKracken Enhanced Version (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Zak%20McKracken%20Enhanced%20Version%20(DOS))|
 |매니악 맨션 Enhanced|1989|[Maniac Mansion Enhanced Version (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Maniac%20Mansion%20Enhanced%20Version%20(DOS))|
 |인디아나 존스 3 최후의 성전|1989|[Indiana Jones and the Last Crusade (FLOPPY/VGA/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Indiana%20Jones%20and%20the%20Last%20Crusade%20(Floppy%20DOS%20VGA))|
 |룸|1990|[Loom (CD DOS VGA)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Loom%20(CD%20DOS%20VGA))|
