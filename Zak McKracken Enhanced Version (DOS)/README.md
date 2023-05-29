@@ -1,5 +1,5 @@
 [Zak McKracken Enhanced Version (DOS)](https://archive.org/details/ZAK_DOS)</br>
-Revision 1 (2023.05.08)</br>
+Revision 2 (2023.05.30)</br>
 </br>
 ​번역: 브리티쉬</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
