@@ -11,6 +11,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |매니악 맨션 Enhanced|1989|[Maniac Mansion Enhanced Version (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Maniac%20Mansion%20Enhanced%20Version%20(DOS))|
 |인디아나 존스 3 최후의 성전|1989|[Indiana Jones and the Last Crusade (FLOPPY/VGA/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Indiana%20Jones%20and%20the%20Last%20Crusade%20(Floppy%20DOS%20VGA))|
 |룸|1990|[Loom (CD DOS VGA)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Loom%20(CD%20DOS%20VGA))|
+|작의 모험|1991|[Zak McKracken (FM-TOWNS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Zak%20McKracken%20(FM-Town))|
 |룸|1991|[Loom (CD FM-TOWNS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Loom%20(CD%20FM-TOWNS))|
 |인디아나 존스 4 - 아틀란티스의 운명|1992|[Indiana Jones and the Fate of Atlantis (CD DOS)](Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis%20(CD%20DOS))|
 |샘 & 맥스 히트 더 로드|1993|[Sam & Max Hit the Road (CD DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Sam%20%26%20Max%20Hit%20the%20Road%20(CD%20DOS))|
