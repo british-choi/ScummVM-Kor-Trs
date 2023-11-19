@@ -1,5 +1,5 @@
 [Broken Sword 1 (Windows CD english)](https://cdromance.com/scummvm/broken-sword-shadow-templars-windows-english-espanol/)</br>
-Revision 1 (2023.11.18)</br>
+Revision 2 (2023.11.19)</br>
 </br>
 ​번역: sgmask (2015.03.02 수정)</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
