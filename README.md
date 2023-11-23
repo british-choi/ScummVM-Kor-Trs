@@ -17,6 +17,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |샘 & 맥스 히트 더 로드|1993|[Sam & Max Hit the Road (CD DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Sam%20%26%20Max%20Hit%20the%20Road%20(CD%20DOS))|
 |풀 쓰로틀|1995|[Full Throttle (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Full%20Throttle%20(DOS))|
 |브로큰 소드 1|1996|[Broken Sword 1 (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Broken%20Sword%201%20(Windows%20CD))|
+|브로큰 소드 2|1997|[Broken Sword 2 (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Broken%20Sword%202%20(Windows%20CD))|
 |원숭이섬의 비밀 Ultimate Talkie Edition|2009|[The Secret Of Monkey Island (Ultimate Talkie Edition DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Secret%20Of%20Monkey%20Island%20(Ultimate%20Talkie%20Edition%20DOS))|
 |원숭이섬2 Ultimate Talkie Edition|2010|[Monkey Island 2 (Ultimate Talkie Edition/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Monkey%20Island%202%20(Ultimate%20Talkie%20Edition%20DOS))|
 
@@ -33,5 +34,5 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 ## 한글화 FM-TOWN 구동을 위한 Windows용 ScummVM 
 ScummVM에서 FM-TOWN은 일본어만 지원되도록 구현되어 있습니다. 그래서 EmuELEC이 아닌 다른 Platform에서 FM-TOWN용 한글화 패치 적용시 정상적인 구동이 되지 않았습니다. 간혹 Windows에서 ScummVM으로 게임을 하시는 분들이 FM-TOWN용 한글화 패치를 사용할 수 없어서 아쉬워 하던 부분을 해결하기 위해 Windows용으로도 Build 하였습니다. 이제 Windows에서도 한글화된 FM-TOWN용 게임을 즐기시길 바랍니다.<br>
 <br>
-## scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
+### scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
 [scummvm-2.7.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.7.1-win32-x86_64.zip)
