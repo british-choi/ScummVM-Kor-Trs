@@ -1,4 +1,4 @@
-[Broken Sword 2 (Windows CD english)](https://cdromance.com/scummvm/broken-sword-shadow-templars-windows-english-espanol/)</br>
+[Broken Sword 2 (Windows CD english)](https://cdromance.com/scummvm/broken-sword-2-the-smoking-mirror-windows-cd-scummvm-game/)</br>
 Revision 1 (2023.11.23)</br>
 </br>
 ​번역: 백프로, 브리티쉬</br>
