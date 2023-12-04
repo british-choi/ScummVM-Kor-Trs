@@ -18,6 +18,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |풀 쓰로틀|1995|[Full Throttle (DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Full%20Throttle%20(DOS))|
 |브로큰 소드 1|1996|[Broken Sword 1 (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Broken%20Sword%201%20(Windows%20CD))|
 |브로큰 소드 2|1997|[Broken Sword 2 (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Broken%20Sword%202%20(Windows%20CD))|
+|그림 판당고|1998|[Grim Fandango (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Grim%20Fandango%20(Windows%20CD))|
 |원숭이섬의 비밀 Ultimate Talkie Edition|2009|[The Secret Of Monkey Island (Ultimate Talkie Edition DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Secret%20Of%20Monkey%20Island%20(Ultimate%20Talkie%20Edition%20DOS))|
 |원숭이섬2 Ultimate Talkie Edition|2010|[Monkey Island 2 (Ultimate Talkie Edition/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Monkey%20Island%202%20(Ultimate%20Talkie%20Edition%20DOS))|
 
