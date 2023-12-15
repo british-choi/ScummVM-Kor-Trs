@@ -5,7 +5,7 @@ Revision 1 (2023.12.15)</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
 </br>
 주의사항</br>
-이 번역 데이터는 30 30 minutes Windows 버전에 사용해야 합니다.</br>
+이 번역 데이터는 30 minutes Windows 버전에 사용해야 합니다.</br>
 </br>
 </br>
 한글 패치 설치 방법</br>
