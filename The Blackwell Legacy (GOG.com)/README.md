@@ -1,5 +1,5 @@
 [The Blackwell Legacy (GOG.com)](https://steamunlocked.net/the-blackwell-legacy-free-download/)</br>
-Revision 1 (2023.12.19)</br>
+Revision 1 (2023.12.20)</br>
 </br>
 ​번역: 추리소년(2023.7.24), 브리티쉬</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
