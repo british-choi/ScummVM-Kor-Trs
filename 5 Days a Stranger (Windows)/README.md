@@ -1,11 +1,11 @@
-[5 Days A Stranger (Windows)](http://www.fullyramblomatic.com/5days/)</br>
+[5 Days a Stranger (Windows)](http://www.fullyramblomatic.com/5days/)</br>
 Revision 1 (2023.12.29)</br>
 </br>
 ​번역: trilby_(2015.1.7), 브리티쉬</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
 </br>
 주의사항</br>
-이 번역 데이터는 5 Days A Stranger v1.3 버전에 사용해야 합니다.</br>
+이 번역 데이터는 5 Days a Stranger v1.3 버전에 사용해야 합니다.</br>
 </br>
 </br>
 한글 패치 설치 방법</br>
