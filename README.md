@@ -37,4 +37,4 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 ScummVM에서 FM-TOWN은 일본어만 지원되도록 구현되어 있습니다. 그래서 EmuELEC이 아닌 다른 Platform에서 FM-TOWN용 한글화 패치 적용시 정상적인 구동이 되지 않았습니다. 간혹 Windows에서 ScummVM으로 게임을 하시는 분들이 FM-TOWN용 한글화 패치를 사용할 수 없어서 아쉬워 하던 부분을 해결하기 위해 Windows용으로도 Build 하였습니다. 이제 Windows에서도 한글화된 FM-TOWN용 게임을 즐기시길 바랍니다.<br>
 <br>
 ### scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
-[scummvm-2.8.0pre-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.0pre-win32-x86_64.zip)
+[scummvm-2.8.0-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.0-win32-x86_64.zip)
