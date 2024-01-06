@@ -24,6 +24,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |블랙웰 언바운드|2007|[Blackwell Unbound (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Unbound%20(GOG.com))|
 |원숭이섬의 비밀 Ultimate Talkie Edition|2009|[The Secret Of Monkey Island (Ultimate Talkie Edition DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Secret%20Of%20Monkey%20Island%20(Ultimate%20Talkie%20Edition%20DOS))|
 |원숭이섬2 Ultimate Talkie Edition|2010|[Monkey Island 2 (Ultimate Talkie Edition/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Monkey%20Island%202%20(Ultimate%20Talkie%20Edition%20DOS))|
+|킹스 퀘스트 1 리메이크 (v4.1c)|2011|[King's Quest I VGA (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/King's%20Quest%20I%20VGA%20(Windows))|
 |30 minutes|2020|[30minutes (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/30minutes%20(Windows))|
 <br>
 
