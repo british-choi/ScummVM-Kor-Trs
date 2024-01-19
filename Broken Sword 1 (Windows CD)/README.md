@@ -13,7 +13,7 @@ Revision 2 (2023.11.19)</br>
 * CLUSTERS 폴더 (*.clu 와 swordres.rif 파일 포함)
 * MUSIC 폴더 (CD2의 2M29.WAV 제외)
 * SMACKSHI 폴더
-* SPEECH 폴더 (CD1의 speech.clu는 speedch1.clu로, CD2의 speech.clu는 speedch2.clu로 파일명 변경)
+* SPEECH 폴더 (CD1의 speech.clu는 speech1.clu로, CD2의 speech.clu는 speech2.clu로 파일명 변경)
 
 </br>
 한글 패치 설치 방법</br>
