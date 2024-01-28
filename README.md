@@ -27,6 +27,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |킹스 퀘스트 1 리메이크 (v4.1c)|2011|[King's Quest I VGA (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/King's%20Quest%20I%20VGA%20(Windows))|
 |30 minutes|2020|[30minutes (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/30minutes%20(Windows))|
 |스페이스 퀘스트 2 VGA 리메이크 (v2.0)|2020|[Space Quest 2 VGA remake v2.0 (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Space%20Quest%202%20VGA%20remake%20v2.0%20(Windows))|
+|어느 겨울밤 네 명의 여행자|2021|[If On A Winter's Night, Four Travelers (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/If%20On%20A%20Winter's%20Night,%20Four%20Travelers%20(Windows))|
 <br>
 
 ## 한글판 EmuELEC 개발자가 ScummVM 한글화 패치를 만들게 된 이유
