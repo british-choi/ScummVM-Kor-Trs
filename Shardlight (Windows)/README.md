@@ -1,5 +1,5 @@
 [샤드라이트](https://steamunlocked.net/5f791-shardlight-free-download/)</br>
-Revision 2 (2024.2.16)</br>
+Revision 3 (2024.2.18)</br>
 </br>
 ​번역: 에디(2024.2.14)</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
