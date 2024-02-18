@@ -1,5 +1,5 @@
 [30 minutes (Windows)](https://www.adventuregamestudio.co.uk/site/games/game/2458-30-minutes/)</br>
-Revision 4 (2024.1.8)</br>
+Revision 4 (2024.2.18)</br>
 </br>
 ​번역: 추리소년(2023.2.27), 브리티쉬</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
