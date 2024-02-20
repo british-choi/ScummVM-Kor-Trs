@@ -1,5 +1,5 @@
 [어느 겨울밤 네 명의 여행자](https://laurahunt.itch.io/if-on-a-winters-night-four-travelers)</br>
-Revision 1 (2024.1.28)</br>
+Revision 2 (2024.2.20)</br>
 </br>
 ​번역: 에디</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
