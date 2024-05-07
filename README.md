@@ -44,6 +44,6 @@ ScummVM에서 FM-TOWN은 일본어만 지원되도록 구현되어 있습니다.
 더불어 ScummVM 2.8.0 (Official) 버전 부터 FM-TOWN용 한글화 구현을 반영하였습니다. 2.8.0 버전 부터는 Official 버전에서도 FM-TOWN 한글 버전을 지원합니다<br>
 <br>
 ### scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
-[scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)
-[scummvm-2.8.1-android-arm64-v8a.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-arm64-v8a.zip)
+[scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)<br>
+[scummvm-2.8.1-android-arm64-v8a.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-arm64-v8a.zip)<br>
 [scummvm-2.8.1-android-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-x86_64.zip)
