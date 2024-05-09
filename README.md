@@ -28,6 +28,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |샤드라이트|2016|[Shardlight (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Shardlight%20(Windows))|
 |30 minutes|2020|[30minutes (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/30minutes%20(Windows))|
 |스페이스 퀘스트 2 VGA 리메이크 (v2.0)|2020|[Space Quest 2 VGA remake v2.0 (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Space%20Quest%202%20VGA%20remake%20v2.0%20(Windows))|
+|작의 모험 2 (The Fan Game)|2020|[The Fan Game - Zak McKracken 2](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Fan%20Game%20-%20Zak%20McKracken%202)|
 |어느 겨울밤 네 명의 여행자|2021|[If On A Winter's Night, Four Travelers (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/If%20On%20A%20Winter's%20Night,%20Four%20Travelers%20(Windows))|
 <br>
 
@@ -38,10 +39,11 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 결국은 EmuELEC에서 V1 전용 한글패치를 사용할 수 있도록 하기 위한 프로젝트 였습니다. 현재는 작의 모험은 직접 번역을 해서 거의 대부분의 V1 전용 한글 패치는 korean.trs 파일로 변환해서 Upload 하였습니다.<br>
 많은 분들의 노력으로 인해 국내 게임 유저들이 즐겁게 게임을 할 수 있습니다.<br>
 자료를 공개해 주신 많은 분들께 감사드립니다.<br>
-<br>
-## 한글화 FM-TOWN 구동을 위한 Windows용 ScummVM 
-ScummVM에서 FM-TOWN은 일본어만 지원되도록 구현되어 있습니다. 그래서 EmuELEC이 아닌 다른 Platform에서 FM-TOWN용 한글화 패치 적용시 정상적인 구동이 되지 않았습니다. 간혹 Windows에서 ScummVM으로 게임을 하시는 분들이 FM-TOWN용 한글화 패치를 사용할 수 없어서 아쉬워 하던 부분을 해결하기 위해 Windows용으로도 Build 하였습니다. 이제 Windows에서도 한글화된 FM-TOWN용 게임을 즐기시길 바랍니다.<br>
-더불어 ScummVM 2.8.0 (Official) 버전 부터 FM-TOWN용 한글화 구현을 반영하였습니다. 2.8.0 버전 부터는 Official 버전에서도 FM-TOWN 한글 버전을 지원합니다<br>
+
+## AGS Engine Game
+
+AGS Engine용 게임의 한글화 구현은 Official ScummVM에 반영하기 위해 Pull Request 요청을 했었습니다만, Upstream인 AGS에 반영되어야 적용가능하다는 답변을 받았습니다. (관리적인 이유로..) 그러나 AGS를 별도로 Study할 만큼 시간 여유가 충분치 않은 관계로 Official ScummVM에 PR은 Close 처리하였습니다. 본 개발자의 ScummVM repository에 관련 Source가 모두 공개되어 있으므로 필요하신 분은 AGS에 맞게 수정 후 PR요청하셔도 됩니다.(그러나 기술지원은 불가합니다) Official ScummVM에서는 AGS Engine용 게임이 동작하지 않으니 같이 첨부된 Win32 또는 Android용 ScummVM을 이용하시길 바랍니다. 사용자가 많지 않은 이유로 32bit 버전은 build하지 않습니다.
+
 <br>
 ### scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
 [scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)<br>
