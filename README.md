@@ -44,8 +44,8 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 
 AGS Engine용 게임의 한글화 구현은 Official ScummVM에 반영하기 위해 Pull Request 요청을 했었습니다만, Upstream인 AGS에 반영되어야 적용가능하다는 답변을 받았습니다. (관리적인 이유로..) 그러나 AGS를 별도로 Study할 만큼 시간 여유가 충분치 않은 관계로 Official ScummVM에 PR은 Close 처리하였습니다. 본 개발자의 ScummVM repository에 관련 Source가 모두 공개되어 있으므로 필요하신 분은 AGS에 맞게 수정 후 PR요청하셔도 됩니다.(그러나 기술지원은 불가합니다) Official ScummVM에서는 AGS Engine용 게임이 동작하지 않으니 같이 첨부된 Win32 또는 Android용 ScummVM을 이용하시길 바랍니다. 사용자가 많지 않은 이유로 32bit 버전은 build하지 않습니다.
 
-<br>
-### scumm engine 이외의 게임도 최신 ScummVM에서 지원하기 위해 한글화 작업을 시작했습니다. Official ScummVM에서 구동되지 않으므로 아래 링크의 ScummVM을 사용하셔야 합니다.
-[scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)<br>
-[scummvm-2.8.1-android-arm64-v8a.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-arm64-v8a.zip)<br>
-[scummvm-2.8.1-android-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-x86_64.zip)
+## ScummVM 다운로드
+
+* [scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)<br>
+* [scummvm-2.8.1-android-arm64-v8a.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-arm64-v8a.zip)<br>
+* [scummvm-2.8.1-android-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-x86_64.zip)
