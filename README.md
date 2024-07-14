@@ -22,6 +22,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |5 Days A Stranger|2003|[5 Days a Stranger (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/5%20Days%20a%20Stranger%20(Windows))|
 |블랙웰 레거시|2006|[The Blackwell Legacy (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Blackwell%20Legacy%20(GOG.com))|
 |블랙웰 언바운드|2007|[Blackwell Unbound (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Unbound%20(GOG.com))|
+|블랙웰 컨버전스|2009|[Blackwell Convergence (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Convergence%20(GOG.com))|
 |원숭이섬의 비밀 Ultimate Talkie Edition|2009|[The Secret Of Monkey Island (Ultimate Talkie Edition DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Secret%20Of%20Monkey%20Island%20(Ultimate%20Talkie%20Edition%20DOS))|
 |원숭이섬2 Ultimate Talkie Edition|2010|[Monkey Island 2 (Ultimate Talkie Edition/DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Monkey%20Island%202%20(Ultimate%20Talkie%20Edition%20DOS))|
 |킹스 퀘스트 1 리메이크 (v4.1c)|2011|[King's Quest I VGA (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/King's%20Quest%20I%20VGA%20(Windows))|
