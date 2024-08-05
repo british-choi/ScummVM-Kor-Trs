@@ -1,5 +1,5 @@
 [Primordia (Steam)](https://steamunlocked.net/d82c5-primordia-free-download/)</br>
-Revision 1 (2024.8.4)</br>
+Revision 1 (2024.8.5)</br>
 </br>
 ​번역: 에디(2024.6.19)</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
@@ -13,4 +13,4 @@ Revision 1 (2024.8.4)</br>
 2. ScummVM 2.8.0pre 이상 AGS Extened Bitmap Font 적용된 버전에서 "게임 추가(A)..." 버튼을 눌러 게임을 등록합니다.</br>
 3. 게임 옵션 - 게임의 언어를 "Korean"으로 설정하고 확인 버튼을 누릅니다.</br>
 4. "시작(S)" 버튼을 눌러 게임을 시작합니다.</br>
-
+5. 게임내에서 언어를 변경하지 마세요.</br>
