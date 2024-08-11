@@ -20,7 +20,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |브로큰 소드 2|1997|[Broken Sword 2 (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Broken%20Sword%202%20(Windows%20CD))|
 |그림 판당고|1998|[Grim Fandango (Windows CD)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Grim%20Fandango%20(Windows%20CD))|
 |5 Days A Stranger|2003|[5 Days a Stranger (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/5%20Days%20a%20Stranger%20(Windows))|
-|블랙웰 레거시|2006|[The Blackwell Legacy (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Blackwell%20Legacy%20(GOG.com))|
+|블랙웰 레거시|2006|[The Blackwell Legacy (Steam)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Blackwell%20Legacy%20(Steam))|
 |블랙웰 언바운드|2007|[Blackwell Unbound (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Unbound%20(GOG.com))|
 |블랙웰 컨버전스|2009|[Blackwell Convergence (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Convergence%20(GOG.com))|
 |원숭이섬의 비밀 Ultimate Talkie Edition|2009|[The Secret Of Monkey Island (Ultimate Talkie Edition DOS)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Secret%20Of%20Monkey%20Island%20(Ultimate%20Talkie%20Edition%20DOS))|
