@@ -44,7 +44,8 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 
 ## AGS Engine Game
 
-AGS Engine용 게임의 한글화 구현은 Official ScummVM에 반영하기 위해 Pull Request 요청을 했었습니다만, Upstream인 AGS에 반영되어야 적용가능하다는 답변을 받았습니다. (관리적인 이유로..) 그러나 AGS를 별도로 Study할 만큼 시간 여유가 충분치 않은 관계로 Official ScummVM에 PR은 Close 처리하였습니다. 본 개발자의 ScummVM repository에 관련 Source가 모두 공개되어 있으므로 필요하신 분은 AGS에 맞게 수정 후 PR요청하셔도 됩니다.(그러나 기술지원은 불가합니다) Official ScummVM에서는 AGS Engine용 게임이 동작하지 않으니 같이 첨부된 Win32 또는 Android용 ScummVM을 이용하시길 바랍니다. 사용자가 많지 않은 이유로 32bit 버전은 build하지 않습니다.
+* AGS Engine용 게임의 한글화 구현은 Official ScummVM에 반영하기 위해 Pull Request 요청을 했었습니다만, Upstream인 AGS에 반영되어야 적용가능하다는 답변을 받았습니다. (관리적인 이유로..) 그러나 AGS를 별도로 Study할 만큼 시간 여유가 충분치 않은 관계로 Official ScummVM에 PR은 Close 처리하였습니다. 본 개발자의 ScummVM repository에 관련 Source가 모두 공개되어 있으므로 필요하신 분은 AGS에 맞게 수정 후 PR요청하셔도 됩니다.(그러나 기술지원은 불가합니다) Official ScummVM에서는 AGS Engine용 게임이 동작하지 않으니 같이 첨부된 Win32 또는 Android용 ScummVM을 이용하시길 바랍니다. 사용자가 많지 않은 이유로 32bit 버전은 build하지 않습니다.
+* Blackwell, Primordia 최신 버전을 Detection하는 코드를 추가하여 새로 Build하였습니다. Game Detection이 안되는 분들은 다시 다운로드 받으세요. (2024.8.15)
 
 ## ScummVM 다운로드
 
