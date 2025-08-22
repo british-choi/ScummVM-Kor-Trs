@@ -49,6 +49,6 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 
 ## ScummVM 다운로드
 
-* [scummvm-2.8.1-win32-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-win32-x86_64.zip)<br>
-* [scummvm-2.8.1-android-arm64-v8a.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-arm64-v8a.zip)<br>
-* [scummvm-2.8.1-android-x86_64.zip](https://github.com/british-choi/ScummVM-Kor-Trs/blob/master/scummvm-2.8.1-android-x86_64.zip)
+* [scummvm-2.9.1-win32-x86_64.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-win32-x86_64.zip)<br>
+* [scummvm-2.9.1-android-arm64-v8a.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-android-arm64-v8a.zip)<br>
+* [scummvm-2.9.1-android-x86_64.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-android-x86_64.zip)
