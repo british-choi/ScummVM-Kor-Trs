@@ -28,6 +28,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |킹스 퀘스트 1 리메이크 (v4.1c)|2011|[King's Quest I VGA (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/King's%20Quest%20I%20VGA%20(Windows))|
 |프리모디아|2012|[Primordia (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Primordia%20(GOG.com))|
 |샤드라이트|2016|[Shardlight (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Shardlight%20(Windows))|
+|램프라이트 시티|2018|[Lamplight City (Stream)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Lamplight%20City%20(Stream))|
 |30 minutes|2020|[30minutes (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/30minutes%20(Windows))|
 |스페이스 퀘스트 2 VGA 리메이크 (v2.0)|2020|[Space Quest 2 VGA remake v2.0 (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Space%20Quest%202%20VGA%20remake%20v2.0%20(Windows))|
 |작의 모험 2 (The Fan Game)|2020|[The Fan Game - Zak McKracken 2](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/The%20Fan%20Game%20-%20Zak%20McKracken%202)|
@@ -52,3 +53,4 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 * [scummvm-2.9.1-win32-x86_64.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-win32-x86_64.zip)<br>
 * [scummvm-2.9.1-android-arm64-v8a.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-android-arm64-v8a.zip)<br>
 * [scummvm-2.9.1-android-x86_64.zip](https://github.com/british-choi/scummvm/releases/download/v2.9.1/scummvm-2.9.1-android-x86_64.zip)
+
