@@ -28,6 +28,7 @@ EmuELEC에서 ScummVM의 게임 설치는 [EmuELEC Wiki](https://github.com/brit
 |킹스 퀘스트 1 리메이크 (v4.1c)|2010|[King's Quest I VGA (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/King's%20Quest%20I%20VGA%20(Windows))|
 |블랙웰 디셉션|2011|[Blackwell Deception (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Deception%20(GOG.com))|
 |프리모디아|2012|[Primordia (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Primordia%20(GOG.com))|
+|블랙웰 에피파니|2014|[Blackwell Epiphany (GOG.com)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Blackwell%20Epiphany%20(GOG.com))|
 |샤드라이트|2016|[Shardlight (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Shardlight%20(Windows))|
 |램프라이트 시티|2018|[Lamplight City (Stream)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/Lamplight%20City%20(Stream))|
 |30 minutes|2020|[30minutes (Windows)](https://github.com/british-choi/ScummVM-Kor-Trs/tree/master/30minutes%20(Windows))|
