@@ -1,7 +1,7 @@
 [Blackwell Deception (GOG.com)](https://steamunlocked.org/blackwell-deception-free-download/)</br>
-Revision 1 (2024.9.17)</br>
+Revision 1 (2025.9.17)</br>
 </br>
-​번역: 브리티쉬(2024.9.17)</br>
+​번역: 브리티쉬(2025.9.17)</br>
 스크립트, 디버깅, 변환: 브리티쉬</br>
 </br>
 주의사항</br>
